@@ -2,7 +2,7 @@
     "name": "keyser-soze/torrent",
     "type": "library",
     "description": "A PHP 5.3+ framework for Torrent",
-    "keywords": ["sdk","torrent", "file"],
+    "keywords": ["sdk","torrent", "file", "bittorrent"],
     "license": "MIT",
     "authors": [
         {
